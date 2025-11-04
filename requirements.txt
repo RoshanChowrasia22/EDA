@@ -1,0 +1,27 @@
+# Core data manipulation
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Statistics and data profiling
+scipy
+statsmodels
+ydata-profiling  # for automated EDA reports (formerly pandas-profiling)
+
+# Optional: handling missing values and preprocessing
+missingno
+scikit-learn
+
+# Optional: interactive notebooks
+jupyter
+notebook
+ipython
+
+# Optional: tabular data exploration utilities
+dtale
+sweetviz
+kagglehub
